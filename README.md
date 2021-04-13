@@ -1,2 +1,2 @@
-# face-detect
- detect face using open cv
+# thabuvelan halleyx 
+auto face detect by using open cv in python
